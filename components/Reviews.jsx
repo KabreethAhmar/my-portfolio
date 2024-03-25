@@ -15,51 +15,51 @@ import {Pagination} from 'swiper/modules'
 const reviewsData = [
     {
         avatar: '/reviews/avatar-1.png',
-        name: 'Sudesh Tharoosh',
-        job: 'Finding Bugs',
-        review: 'Lorem Ispum Lorem Ispum Lorem Ispum'
+        name: 'Person 1',
+        job: 'Web Developer',
+        review: ''
     },
     {
         avatar: '/reviews/avatar-2.png',
-        name: 'Sudesh Tharoosh',
-        job: 'Finding Bugs',
-        review: 'Lorem Ispum Lorem Ispum Lorem Ispum'
+        name: 'Person 2',
+        job: 'Web Developer',
+        review: ''
     },
     {
         avatar: '/reviews/avatar-3.png',
-        name: 'Sudesh Tharoosh',
-        job: 'Finding Bugs',
-        review: 'Lorem Ispum Lorem Ispum Lorem Ispum'
+        name: 'Person 3',
+        job: 'Web Developer',
+        review: ''
     },
     {
         avatar: '/reviews/avatar-4.png',
-        name: 'Sudesh Tharoosh',
-        job: 'Finding Bugs',
-        review: 'Lorem Ispum Lorem Ispum Lorem Ispum'
+        name: 'Person 4',
+        job: 'Web Developer',
+        review: ''
     },
     {
         avatar: '/reviews/avatar-1.png',
-        name: 'Sudesh Tharoosh',
-        job: 'Finding Bugs',
-        review: 'Lorem Ispum Lorem Ispum Lorem Ispum'
+        name: 'Person 5',
+        job: 'Web Developer',
+        review: ''
     },
     {
         avatar: '/reviews/avatar-2.png',
-        name: 'Sudesh Tharoosh',
-        job: 'Finding Bugs',
-        review: 'Lorem Ispum Lorem Ispum Lorem Ispum'
+        name: 'Person 6',
+        job: 'Web Developer',
+        review: ''
     },
     {
         avatar: '/reviews/avatar-3.png',
-        name: 'Sudesh Tharoosh',
-        job: 'Finding Bugs',
-        review: 'Lorem Ispum Lorem Ispum Lorem Ispum'
+        name: 'Person 7',
+        job: 'Web Developer',
+        review: ''
     },
     {
         avatar: '/reviews/avatar-4.png',
-        name: 'Sudesh Tharoosh',
-        job: 'Finding Bugs',
-        review: 'Lorem Ispum Lorem Ispum Lorem Ispum'
+        name: 'Person 8 ',
+        job: 'Web Developer',
+        review: ''
     },
 ]
 

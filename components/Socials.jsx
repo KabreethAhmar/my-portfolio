@@ -11,7 +11,7 @@ import Link from 'next/link';
 
 const icons = [
     {
-        path: 'www.linkedin.com/in/kabreeth-ahmar',
+        path: 'https://www.linkedin.com/in/kabreeth-ahmar/',
         name: <RiLinkedinFill/>
     },
     {

@@ -10,11 +10,11 @@ const contact = () => {
                     {/* Text */}
                     <div className='flex flex-col justify-center'>
                         <div className='flex items-center gap-x-4 text-primary text-lg mb-4' >
-                            Hello!
+                            Get in Touch!
                         </div>
                         <h1 className='h1 max-w-md mb-8'>Let's Work Together.</h1>
                         <p className='subtitle max-w-[400px]'>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus facere animi expedita nam id repellat incidunt, enim quisquam corrupti harum suscipit obcaecati non atque tenetur similique, porro pariatur accusamus blanditiis!
+                        Thank you for taking the time to explore my portfolio! If you have any inquiries, collaboration opportunities, or just want to say hello, feel free to reach out using the contact form below or through any of the channels listed.
                         </p>
                     </div>
                     {/* Illustrations */}
